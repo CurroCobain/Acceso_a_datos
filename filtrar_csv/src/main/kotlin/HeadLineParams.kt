@@ -3,7 +3,7 @@ class HeadLineParams(file: File):LineParam(file) {
     var listParams= listOf<String>()
     var index = 0
 
-    override fun createListParams(file:File){
+    fun createListParams(file:File){
         val buff = this.file.bufferedReader()
         val tempLine: List<String> = buff.readLines()
         var cont = 0
@@ -17,13 +17,20 @@ class HeadLineParams(file: File):LineParam(file) {
         listParams = listTemp.split(",")
         }
     fun getIndex(string:String):Int{
-        var index = 0
         for(i in listParams.indices){
             if(string == listParams[i]){
-                index = i
+                this.index = i
             }
         }
         return index
+    }
+
+    override fun show():String {
+        var text = ""
+        for (i in listParams){
+            text+= "$i "
+        }
+        return text
     }
 
     override fun toString(): String {
