@@ -28,3 +28,5 @@ fun main(args: Array<String>) {
         println("Faltan parámetros o el comando está incompleto")
     }
 }
+
+//Línea para añadir al run "itinerarios.csv RECURSO_NOMBRE=Barrio de pescadores de Monte Gordo"
