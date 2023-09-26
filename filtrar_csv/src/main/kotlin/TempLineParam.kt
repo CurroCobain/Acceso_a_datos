@@ -24,7 +24,7 @@ class TempLineParam(file:File,index:Int, param:String): LineParam(file) {
                 if(i.indexOf(x)> i.size-1){
                     break
                 }else{
-                    tempText += x
+                    tempText += "$x "
                 }
             }
             text+=" $tempText \n"
