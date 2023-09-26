@@ -9,7 +9,7 @@ class TempLineParam(file:File,index:Int, param:String): LineParam(file) {
         val tempLine: List<String> = buff.readLines()
         for (i in tempLine) {
             var line = i.split(",")
-            if (line[index] == param){
+            if (line[index].contains(param)){
                 templist.add(line)
         }
     }
