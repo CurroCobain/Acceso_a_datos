@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <rutas> 
+      <registro>
+          <RUTA>Ruta 01</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Algarve</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Puerto pesquero de Vila Real de Santo Antonio</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.416167</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.201917</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 01</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Algarve</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Lota de Vila Real de Santo Antonio</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.416178</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.201981</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 01</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Algarve</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Mercado municipal de Vila Real de Santo Antonio</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.416417</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.194417</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 01</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Algarve</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Farol de Vila Real de Santo Antonio</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.416500</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.187278</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 01</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Algarve</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Ribeirinha de Vila Real de Santo Antonio</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.414333</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.198639</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 01</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Algarve</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Salinas de Castro Marim</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.427528</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.208250</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 01</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Algarve</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Barrio de pescadores de Monte Gordo</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.454389</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.177417</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 01</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Algarve</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Castelo de Castro Marim</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.441944</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.218611</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 02</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros de Ayamonte</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Salinas del Duque</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.346278</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.190833</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 02</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros de Ayamonte</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Puerto de Ayamonte</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.410028</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.214944</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 02</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros de Ayamonte</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Lonja de Ayamonte</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.410028</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.214944</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 02</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros de Ayamonte</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Mercado de abastos de Ayamonte</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.408704</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.212120</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 02</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros de Ayamonte</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Barriada de Canela y Campo de Canela</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.403361</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.200167</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 02</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros de Ayamonte</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Ecomuseo Molino del Pintado</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.390171</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.211637</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 02</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros de Ayamonte</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Punta del Moral</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.341861</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.188056</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 02</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros de Ayamonte</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Estero de la Mojarra</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.341216</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.186866</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 02</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros de Ayamonte</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Ermita Nuestra Señora del Carmen y romerias marineras</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.403806</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.197556</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 02</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros de Ayamonte</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Torre Canela</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.380306</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.189083</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 02</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros de Ayamonte</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Baluarte de las Angustias</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-7.409500</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>37.213333</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Sendero de Frieiras</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.19216</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.15399</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Sendero Río Mourentão-Playa fluvial de Río Minho</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.27731</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.11745</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>As Pesqueiras de Prado</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.278806</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.120444</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Sendero rio Minho-Deva</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.296242</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.110364</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Playa fluvial rio Minho</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.29793</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.10747</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Caleira de Gulans. Forno de Cal</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.40849</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.07893</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Sendero entre garitas</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.41366</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.07712</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Sendero Vogal-Playa fluvial de Río Minho</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.46349</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.08216</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Parque da Canuda</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.50556</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.07922</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Playa fluvial y merendero de Fiestras</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.56332</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.05199</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Observatorio da Insua do Conguedo</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.59722</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.05444</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Parque de Ocio Pesqueira dos Frades</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.61558</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.05134</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Playa fluvial</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.62046</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.05391</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Puente internacional de Tui</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.646944</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.036389</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Fortaleça de Valença</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.64567</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>42.02724</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Aquamuseu do Rio Minho</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.7493277777778</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>41.937997222222</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Conjunto de islas en la desembocadora del Minho</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.835429199135243</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>41.90569006436099</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Estuario del Rio Minho</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.865224915950124</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>41.87235977895401</RECURSO_LATITUD>
+     </registro>
+     <registro>
+          <RUTA>Ruta 03</RUTA>
+          <DENOMINACION_RUTA>Itinerario de recursos turísticos-costeros del Minho</DENOMINACION_RUTA>
+          <RECURSO_NOMBRE>Forte da Insua</RECURSO_NOMBRE>
+          <RECURSO_LONGITUD>-8.874722</RECURSO_LONGITUD>
+          <RECURSO_LATITUD>41.859167</RECURSO_LATITUD>
+     </registro>
+</rutas>
