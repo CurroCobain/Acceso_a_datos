@@ -3,7 +3,7 @@ class HeadLineParams(file: File):LineParam(file) {
     var listParams= listOf<String>()
     var index = 0
 
-    fun createListParams(file:File){
+    fun createListParams(){
         val buff = this.file.bufferedReader()
         val tempLine: List<String> = buff.readLines()
         var cont = 0
@@ -32,7 +32,6 @@ class HeadLineParams(file: File):LineParam(file) {
         }
         return text
     }
-
     override fun toString(): String {
         return "${this.listParams}"
     }

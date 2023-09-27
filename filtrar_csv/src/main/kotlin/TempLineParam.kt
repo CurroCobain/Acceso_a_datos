@@ -1,15 +1,32 @@
 import java.io.File
 
-class TempLineParam(file:File,index:Int, param:String): LineParam(file) {
+class TempLineParam(file:File): LineParam(file) {
     var templistParams = mutableListOf<List<String>>()
 
-    init {
+    fun createListParams(){
         var templist = mutableListOf<List<String>>()
         val buff = this.file.bufferedReader()
         val tempLine: List<String> = buff.readLines()
         for (i in tempLine) {
             var line = i.split(",")
-            if (line[index].contains(param)){
+            templist.add(line)
+        }
+        templist.removeAt(0)
+        templistParams = templist
+    }
+    fun filtrarListParams(head:HeadLineParams) {
+        println("Elija el parámetro por el que desea filtrar:")
+        println(head.show())
+        val param = readln()
+        println("Ingrese la información que desea buscar")
+        var content = readln()
+        val index = head.getIndex(param)
+        val templist = mutableListOf<List<String>>()
+        val buff = this.file.bufferedReader()
+        val tempLine: List<String> = buff.readLines()
+        for (i in tempLine) {
+            var line = i.split(",")
+            if (line[index].contains(content)){
                 templist.add(line)
         }
     }
