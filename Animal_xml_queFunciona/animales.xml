@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<animal id="guau">
+    <nombre>Leo</nombre>
+    <nombrePropietario>Curro</nombrePropietario>
+    <coordenadas>
+        <coordenada>
+            <x>1</x>
+            <y>2</y>
+        </coordenada>
+        <coordenada>
+            <x>5</x>
+            <y>7</y>
+        </coordenada>
+    </coordenadas>
+    <cachorro id="auuu">
+        <nombre>Aisha</nombre>
+        <nombrePropietario>Manolo</nombrePropietario>
+        <coordenadas>
+            <coordenada>
+                <x>1</x>
+                <y>2</y>
+            </coordenada>
+            <coordenada>
+                <x>3</x>
+                <y>4</y>
+            </coordenada>
+        </coordenadas>
+        <nombreCachorro>Leo</nombreCachorro>
+        <edad>1</edad>
+        <vacunas>
+            <vacuna>Rabia</vacuna>
+            <vacuna>Mosquito</vacuna>
+        </vacunas>
+    </cachorro>
+</animal>
